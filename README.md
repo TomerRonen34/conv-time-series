@@ -1,2 +1,3 @@
 # conv-time-series
-Learning to regress polynomial time series with a CNN
+Polynomial time series regression using a fully convolutional net:
+inference is ~26 times faster than a dense net.
